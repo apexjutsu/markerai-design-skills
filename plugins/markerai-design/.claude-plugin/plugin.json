@@ -3,5 +3,14 @@
   "description": "Design intelligence bundle: 7 skills covering UI/UX systems, brand identity, design tokens, slide decks, banners, frontend styling, and shadcn/Tailwind component design. Use for any visual design, branding, layout, color/typography, or component-styling task.",
   "author": {
     "name": "apexjutsu"
-  }
+  },
+  "skills": [
+    "./skills/ui-ux-pro-max",
+    "./skills/design",
+    "./skills/design-system",
+    "./skills/ui-styling",
+    "./skills/brand",
+    "./skills/slides",
+    "./skills/banner-design"
+  ]
 }
