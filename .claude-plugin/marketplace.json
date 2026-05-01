@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "markerai-design-skills",
+  "description": "Design intelligence skills bundle for MarkerAi: UI/UX, brand, design system, banners, slides, and frontend styling.",
+  "owner": {
+    "name": "apexjutsu"
+  },
+  "plugins": [
+    {
+      "name": "markerai-design",
+      "description": "Bundle of 7 design skills: ui-ux-pro-max, design, design-system, ui-styling, brand, slides, banner-design. Originally from nextlevelbuilder/ui-ux-pro-max-skill (MIT), repackaged as a single plugin so all skills load together.",
+      "source": "./plugins/markerai-design",
+      "category": "design",
+      "author": {
+        "name": "apexjutsu"
+      }
+    }
+  ]
+}
